@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{1F88DBA5-1A89-4A9D-B3EE-5C71192BCB24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{E4F7FB7D-0666-4FEB-9B4E-DEA5241FF14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{6AC77FE4-519F-4DA7-B97F-9F681303E338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1F88DBA5-1A89-4A9D-B3EE-5C71192BCB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F88DBA5-1A89-4A9D-B3EE-5C71192BCB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F88DBA5-1A89-4A9D-B3EE-5C71192BCB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F7FB7D-0666-4FEB-9B4E-DEA5241FF14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F7FB7D-0666-4FEB-9B4E-DEA5241FF14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F7FB7D-0666-4FEB-9B4E-DEA5241FF14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F7FB7D-0666-4FEB-9B4E-DEA5241FF14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC77FE4-519F-4DA7-B97F-9F681303E338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC77FE4-519F-4DA7-B97F-9F681303E338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC77FE4-519F-4DA7-B97F-9F681303E338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC77FE4-519F-4DA7-B97F-9F681303E338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
